@@ -10,7 +10,7 @@
 .container {
     width: 100%;
     height: 100vh;
-    background-image: url(asset/wp\ luffy.jpg);
+    background-image: url(asset/back.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
